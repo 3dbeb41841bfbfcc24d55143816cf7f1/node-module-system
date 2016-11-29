@@ -184,3 +184,5 @@ Try writing a JavaScript Class and export it. Then write a script to import it a
 
 * discuss the various Module Patterns:
   - IIFEs
+  - see [Boston Lesson](https://github.com/ga-wdi-boston/js-modules-study/blob/master/study.md)
+  - see [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
