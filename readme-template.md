@@ -1,5 +1,7 @@
 # JavaScript Modules
 
+![Assembling](images/assembling.jpg)
+
 ## Background
 
 > __Modularity__: the degree to which a system's components may be separated and recombined.
@@ -173,6 +175,7 @@ Try writing a JavaScript Class and export it. Then write a script to import it a
 
 ## References
 
+* [JavaScript Modules - A Beginner's Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.ex89qyyvh)
 * [JavaScript Module Systems Showdown](https://auth0.com/blog/javascript-module-systems-showdown/)
 
 ---
